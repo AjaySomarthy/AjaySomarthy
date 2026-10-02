@@ -37,6 +37,49 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 * Data Quality & Validation
 * Reporting Data Preparation
 
+## 🛠️ Technical Skills
+
+### Programming
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" height="50" alt="Scala"/>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Scala</strong>
+</p>
+
+### Big Data & Distributed Processing
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache"/>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Apache Spark</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Hadoop</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Hive</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>HDFS</strong>
+</p>
+
+### Database & Querying
+
+<p align="left">
+  <strong>SQL</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Oracle</strong>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
+</p>
+  
+
 ---
 
 ## 🤝 Connect With Me
