@@ -165,9 +165,15 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 ### Programming Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="50" height="50
+
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
+
+
+---
+
 
 ### Big Data & Workflow Orchestration
 
