@@ -153,3 +153,6 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
 </p>
+
+
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/> <img src="https://cdn.simpleicons.org/apacheoozie/FFFFFF" alt="Apache Oozie" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="50"/></p>
