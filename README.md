@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Somarthy 👋
 
-#### Big Data Developer | Apache Spark | Scala | SQL
+#### Big Data Developer | Apache Spark | Scala
 
 I am passionate about building scalable data solutions, writing clean and maintainable code, and continuously improving my technical expertise in the Big Data ecosystem.
 
