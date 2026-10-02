@@ -49,4 +49,92 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
+## 🛠️ Technical Skills
+
+### Programming
+
+<p align="left">
+  <a href="https://www.scala-lang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"
+         alt="Scala"
+         width="55"
+         height="55" />
+  </a>
+</p>
+
+### Big Data & Distributed Processing
+
+<p align="left">
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"
+         alt="Apache Spark"
+         width="55"
+         height="55" />
+  </a>
+
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
+         alt="Hadoop"
+         width="55"
+         height="55" />
+  </a>
+
+  <a href="https://hive.apache.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apachehive/FDEE21"
+         alt="Apache Hive"
+         width="55"
+         height="55" />
+  </a>
+
+  <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
+         alt="HDFS"
+         width="55"
+         height="55" />
+  </a>
+</p>
+
+<p>
+  Apache Spark &nbsp;•&nbsp; Hadoop &nbsp;•&nbsp; Hive &nbsp;•&nbsp; HDFS
+</p>
+
+### Database & Querying
+
+<p align="left">
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"
+         alt="SQL" />
+  </a>
+
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+         alt="Oracle" />
+  </a>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="Git"
+         width="55"
+         height="55" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub"
+         width="55"
+         height="55" />
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+         alt="IntelliJ IDEA"
+         width="55"
+         height="55" />
+  </a>
+</p>
+
 ### Thanks for visiting my GitHub profile! 👋
