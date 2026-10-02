@@ -85,9 +85,3 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" width="50" height="50"/>
   
 </p>
-
-
----
-
-
-##### Thank you for visiting my GitHub profile! 👋
