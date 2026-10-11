@@ -8,7 +8,9 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 ### 🛠️ Technical Skills
+
 ---
+
 ### Programming Languages
 <p align="left">
    <!-- Scala -->
@@ -17,6 +19,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
    <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
 </p>
+
 ---
 
 ### Big Data & Distributed Processing
@@ -30,7 +33,9 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
    <!-- Apache Hive -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="35" height="35"/>
 </p>
+
 ---
+
 ### Database & Querying
 <p align="left">
   <!-- SQL -->
@@ -42,19 +47,25 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <!-- Oracle -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="35" height="35"/>
 </p>
+
 ---
+
 ### Cloud Computing
 <p align="left">
    <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
 </p>
+
 ---
+
 ### Development Tools
 <p align="left">
    <!-- IntelliJ IDEA -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="35" height="35"/>
 </p>
+
 ---
+
 ### Version Control & Repository Management
 <p align="left">
    <!-- Git -->
