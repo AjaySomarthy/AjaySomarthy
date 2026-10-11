@@ -10,13 +10,13 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 ### 🛠️ Technical Skills
 
 
-#### Programming Languages
+### Programming Languages
 
 
 <p align="left">
 
    <!-- Scala -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
 
    <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
