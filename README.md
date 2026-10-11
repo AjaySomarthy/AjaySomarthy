@@ -12,21 +12,17 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ### Programming Languages
 
-
 <p align="left">
    <!-- Scala -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="35" height="35"/>
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;
    <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
 </p>
 
-
 ---
 
-
 ### Big Data & Distributed Processing
-
 
 <p align="left">
    <!-- Apache Spark -->  
