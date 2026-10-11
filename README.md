@@ -27,6 +27,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="50" height="50"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50" height="50"/>
@@ -34,6 +35,9 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Apache Hive" width="50" height="50"/>
 
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+
+  <!-- Apache Hive -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" alt="Apache Hive" width="50" height="50"/>
   
 </p>
 
@@ -44,11 +48,22 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 ### Database & Querying
 
 <p align="left">
+
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="50"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
+  
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  
 </p>
 
 
