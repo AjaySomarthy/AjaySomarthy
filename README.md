@@ -7,10 +7,10 @@ I am passionate about building scalable data solutions, writing clean and mainta
 My work involves building and maintaining **ETL and Big Data pipelines**, processing data from multiple sources, applying business transformations, and preparing reliable datasets for downstream systems and reporting.
 
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 
-### Programming Languages
+#### Programming Languages
 
 
 <p align="left">
@@ -19,7 +19,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="30" height="30"/>
 
    <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
 </p>
 
