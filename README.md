@@ -32,6 +32,9 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50" height="50"/>
   
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Apache Hive" width="50" height="50"/>
+
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+  
 </p>
 
 
