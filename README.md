@@ -31,9 +31,9 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="35" height="35"/>
    &nbsp;&nbsp;
    <!-- Apache Hive -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="50" height="35"/>
    <!-- Apache Oozie -->
-  <img src="https://raw.githubusercontent.com/AjaySomarthy/AjaySomarthy/main/images/Oozie.png" alt="Apache Oozie" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/AjaySomarthy/AjaySomarthy/main/images/Oozie.png" alt="Apache Oozie" width="80" height="35"/>
 </p>
 
 ---
