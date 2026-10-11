@@ -11,7 +11,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Programming Languages
+### Programming Languages :
 <p align="left">
    <!-- Scala -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="35" height="35"/>
@@ -22,7 +22,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Big Data & Distributed Processing
+### Big Data :
 <p align="left">
    <!-- Apache Spark -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="35" height="35"/>
@@ -36,7 +36,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Database & Querying
+### Database & Querying :
 <p align="left">
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="35" height="35"/>
@@ -50,7 +50,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Cloud Computing
+### Cloud :
 <p align="left">
    <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
@@ -58,7 +58,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Development Tools
+### Development Tools :
 <p align="left">
    <!-- IntelliJ IDEA -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="35" height="35"/>
@@ -66,7 +66,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
-### Version Control & Repository Management
+### Version Control :
 <p align="left">
    <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
