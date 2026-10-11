@@ -44,8 +44,11 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
    <!-- Apache Hive -->
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
 
-  <!-- Apache Hive -->
+   <!-- Apache Hive -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehive/apachehive-original.svg" alt="Apache Hive" width="50" height="50"/>
+
+   <!-- Apache Hive -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="100" height="100"/>
   
 </p>
 
