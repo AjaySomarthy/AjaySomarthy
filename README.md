@@ -14,9 +14,13 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
+
+   <!-- Scala -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="50" height="50"/>
-  
+
+   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  
 </p>
 
 
@@ -27,13 +31,17 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
-  
+
+   <!-- Apache Spark -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="50" height="50"/>
-  
+
+   <!-- Hadoop -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50" height="50"/>
-  
+
+   <!-- Apache Hive -->
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Apache Hive" width="50" height="50"/>
 
+   <!-- Apache Hive -->
   <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
 
   <!-- Apache Hive -->
@@ -58,12 +66,6 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
   <!-- Oracle -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
   
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  
 </p>
 
 
@@ -74,7 +76,10 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
+
+   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="50"/>
+
 </p>
 
 
@@ -85,7 +90,10 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
+
+   <!-- IntelliJ IDEA -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50"/>
+  
 </p>
 
 
@@ -96,12 +104,17 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 
 <p align="left">
+
+   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  
+
+   <!-- GitLab -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
-  
+
+   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  
+
+   <!-- Bitbucket -->
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" alt="Bitbucket" width="50" height="50"/>
   
 </p>
