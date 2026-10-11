@@ -31,7 +31,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 <p align="left">
    <!-- Apache Spark -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="35" height="35"/>
-   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;
    <!-- Hadoop -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="35" height="35"/>
    &nbsp;&nbsp;&nbsp;
