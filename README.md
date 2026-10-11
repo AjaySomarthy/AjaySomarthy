@@ -25,15 +25,15 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 ### Big Data :
 <p align="left">
    <!-- Apache Spark -->  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="35" height="40"/>
    &nbsp;&nbsp;
    <!-- Hadoop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="35" height="40"/>
    &nbsp;&nbsp;
    <!-- Apache Hive -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="50" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="50" height="40"/>
    <!-- Apache Oozie -->
-  <img src="https://raw.githubusercontent.com/AjaySomarthy/AjaySomarthy/main/images/Oozie.png" alt="Apache Oozie" width="80" height="35"/>
+  <img src="https://raw.githubusercontent.com/AjaySomarthy/AjaySomarthy/main/images/Oozie.png" alt="Apache Oozie" width="80" height="40"/>
 </p>
 
 ---
