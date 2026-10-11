@@ -32,7 +32,7 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
    &nbsp;&nbsp;
    <!-- Apache Hive -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Apache Hive" width="50" height="40"/>
-   &nbsp;&nbsp;
+   &nbsp;
    <!-- Apache Oozie -->
   <img src="https://raw.githubusercontent.com/AjaySomarthy/AjaySomarthy/main/images/Oozie.png" alt="Apache Oozie" width="80" height="45"/>
 </p>
