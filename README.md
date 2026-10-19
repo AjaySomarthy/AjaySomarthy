@@ -1,11 +1,14 @@
 # Hi, I'm Ajay Somarthy 👋
 
-#### Big Data Developer | Apache Spark | Scala
+### Big Data Developer | Apache Spark | Scala | SQL | Hadoop
 
-I am passionate about building scalable data solutions, writing clean and maintainable code, and continuously improving my technical expertise in the Big Data ecosystem.
+I am a **Big Data Developer** with hands-on experience in Apache Spark, Scala, Spark SQL, SQL, Hadoop, and HDFS.
 
-My work involves building and maintaining **ETL and Big Data pipelines**, processing data from multiple sources, applying business transformations, and preparing reliable datasets for downstream systems and reporting.
+My work involves **developing and modifying Spark Scala modules**, implementing DataFrame transformations based on business requirements, and writing SQL and Spark SQL queries for data processing and business reporting.
 
+I also have experience working with **Hadoop HDFS and Linux commands** to monitor file availability, identify missing files, and support daily data operations.
+
+I am a **Databricks Certified Associate Developer for Apache Spark 3.0**, passionate about writing clean, maintainable code and continuously improving my technical skills in the Big Data ecosystem.
 
 ### 🛠️ Technical Skills
 
