@@ -3,8 +3,6 @@
 ### Big Data Developer | Apache Spark | Scala | SQL | Hadoop
 
 
-I am a **Big Data Developer** with hands-on experience in Apache Spark, Scala, Spark SQL, SQL, Hadoop, and HDFS.
-
 My work involves **developing and modifying Spark Scala modules**, implementing DataFrame transformations based on business requirements, and writing SQL and Spark SQL queries for data processing and business reporting.
 
 I also have experience working with **Hadoop HDFS and Linux commands** to monitor file availability, identify missing files, and support daily data operations.
