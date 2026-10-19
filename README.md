@@ -60,6 +60,14 @@ My work involves building and maintaining **ETL and Big Data pipelines**, proces
 
 ---
 
+### Operating Systems :
+<p align="left">
+   <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+</p>
+
+---
+
 ### Development Tools :
 <p align="left">
    <!-- IntelliJ IDEA -->
